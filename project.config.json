@@ -1,0 +1,15 @@
+{
+  "miniprogramRoot": "./dist",
+  "projectname": "mp-fxy",
+  "description": "mp-fxy",
+  "appid": "wx2eed7f501e7cb9ca",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": true,
+    "uploadWithSourceMap": false,
+    "libVersion": "2.7.7"
+  },
+  "compileType": "miniprogram"
+}
